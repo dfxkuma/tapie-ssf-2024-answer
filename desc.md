@@ -51,7 +51,8 @@ flex로 요소들을 가로로 배치
 하단에 파란색 구분선 추가
 
 제목 스타일
-```css.header h1 {
+```css
+.header h1 {
     font-size: 24px;
     margin: 0;
     padding-right: 10px;
